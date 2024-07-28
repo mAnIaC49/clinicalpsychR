@@ -1,0 +1,10 @@
+Package: clinicalpsychR
+Title: Clinical Psychology
+Description: Score and interpret common clinical assessments, analyse therapeutic session data, and visualise patient progress over time.
+Version: 1.0
+Authors@R: person("Neeraj", "Shetty", email="neerajshetty107@gmail.com", role=c("aut", "cre", "cph"))
+License: MIT + file LICENSE
+Video: https://youtu.be/nYSST3TCQV0
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
